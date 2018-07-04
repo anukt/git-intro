@@ -5,4 +5,14 @@ php
 oracle
 
 
+
+
+html
+css 
+javascript
+angular
+
+
+
+
 ty
